@@ -1,5 +1,6 @@
 <img src="https://www.linkpicture.com/q/logo_252.png" alt="meal_manager" />
-<h3>Meal Manager Web Application</h3>
+<h1 align="center">Vue JS</h1>
+<h3 align="center">Meal Manager Web Application</h3>
 
 
 
