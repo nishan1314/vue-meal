@@ -31,4 +31,4 @@ you will operate through this link.
 <a href='https://www.linkpicture.com/view.php?img=LPic6243d64c6b0361796345262'><img src='https://www.linkpicture.com/q/v-5.png' type='image'></a>
 </p>
 
-.....................Thank You.........................
+<h3 align="center">Give stars if you like this..<br> Thank You</h3>
