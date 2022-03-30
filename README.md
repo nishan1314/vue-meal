@@ -1,6 +1,7 @@
 <img src="https://www.linkpicture.com/q/logo_252.png" alt="meal_manager" />
-# vue-meal
-Meal manager web application.
+<h3>Meal Manager Web Application</h3>
+
+
 
 
 //Follow the steps to setup your project........
