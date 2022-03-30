@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://www.linkpicture.com/q/logo_252.png" alt="meal_manager"><br>Vue JS</h1>
+<h1 align="center"><img src="https://www.linkpicture.com/q/logo-removebg-preview_1.png" alt="meal_manager"><br>Vue JS</h1>
 <h3 align="center">Meal Manager Web Application</h3>
 
 
