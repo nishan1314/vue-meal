@@ -1,4 +1,4 @@
-<h1 align="center"><img src="" alt="meal_manager"><br>Vue JS</h1>
+<h1 align="center"><img src="https://freeimage.host/i/25nDvIa" alt="meal_manager"><br>Vue JS</h1>
 <h3 align="center">Meal Manager Web Application</h3>
 
 
