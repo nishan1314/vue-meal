@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://www.linkpicture.com/q/logo-removebg-preview_1.png" alt="meal_manager"><br>Vue JS</h1>
+<h1 align="center"><img src="" alt="meal_manager"><br>Vue JS</h1>
 <h3 align="center">Meal Manager Web Application</h3>
 
 
@@ -24,11 +24,7 @@ you will operate through this link.
 
 <h3 align="left">Project Screenshots</h3>
 <p align="center">
-<a href='https://www.linkpicture.com/view.php?img=LPic6243d64c6b0361796345262'><img src='https://www.linkpicture.com/q/v-1.png' type='image'></a>
-<a href='https://www.linkpicture.com/view.php?img=LPic6243d64c6b0361796345262'><img src='https://www.linkpicture.com/q/v-2.png' type='image'></a>
-<a href='https://www.linkpicture.com/view.php?img=LPic6243d64c6b0361796345262'><img src='https://www.linkpicture.com/q/v-3.png' type='image'></a>
-<a href='https://www.linkpicture.com/view.php?img=LPic6243d64c6b0361796345262'><img src='https://www.linkpicture.com/q/v-4.png' type='image'></a>
-<a href='https://www.linkpicture.com/view.php?img=LPic6243d64c6b0361796345262'><img src='https://www.linkpicture.com/q/v-5.png' type='image'></a>
+Not Available
 </p>
 
 <h3 align="center">Give stars if you like this..<br> Thank You</h3>
